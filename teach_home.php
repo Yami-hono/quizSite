@@ -25,7 +25,7 @@ if(!isset($_SESSION['username']))
   cursor: pointer;
 }
 </style>
-	<title>Admin's Dome</title>
+	<title>Teacher's Dome</title>
 </head>
 <body>
 <div class="container">
